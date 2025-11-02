@@ -17,9 +17,9 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+title:       AP Calculus BC - Limits FRQ Practice
+author:      Calculus BC Study Guide
+description: Comprehensive FRQ practice problems for AP Calculus BC limits with detailed solutions.
 
 sass:
   style:     :compressed
